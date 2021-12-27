@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2021-11-02 12:41:53
+[georeference]
+nrows=2958
+ncols=2000
+xmin=331609.780114556
+ymin=6196481.23603197
+xmax=431609.780114556
+ymax=6344381.23603197
+projection=+proj=utm +zone=19 +south +datum=WGS84 +units=m +no_defs
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=428
+maxvalue=6514.18332356351
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=file23204276414cc

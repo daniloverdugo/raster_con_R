@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2021-11-21 17:49:24
+[georeference]
+nrows=866
+ncols=558
+xmin=753405
+ymin=6114025
+xmax=770145
+ymax=6140005
+projection=+proj=utm +zone=18 +south +datum=WGS84 +units=m +no_defs
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=7
+bandorder=BIL
+minvalue=-0.199587494134903:-0.198899999260902:-0.186937496066093:-0.197029992938042:-0.189467504620552:-0.057632502168417:-0.0103325070813298
+maxvalue=0.371972501277924:0.400077521800995:0.448890030384064:0.4714674949646:0.636907517910004:0.526495039463043:0.426972508430481
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=AC:B:G:R:NIR:SWIR1:SWIR2
